@@ -1,0 +1,5 @@
+@@dir_name,@@file_name,@@ingrid,@@outgrid
+ctrl_01,acabf_GIS_GSFC_ISSM_ctrl.nc,1km,15km
+ctrl_01,acabf_GIS_JPL_ISSM_ctrl.nc,1km,15km
+ctrl_01,dlithkdt_GIS_GSFC_ISSM_ctrl.nc,1km,15km
+ctrl_01,dlithkdt_GIS_JPL_ISSM_ctrl.nc,1km,15km

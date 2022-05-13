@@ -1,0 +1,73 @@
+libmassbfgr_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.83s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.83s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.86s )
+
+lithk_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.80s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.80s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.82s )
+
+xvelmean_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.85s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.85s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.88s )
+
+sftgif_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.88s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.88s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.90s )
+
+dlithkdt_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.88s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.88s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.90s )
+
+acabf_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.85s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.85s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.88s )
+
+sftflf_GIS_IMAU_IMAUICE1_ctrl.nc
+mkdir: cannot create directory ‘/gpfs/scratch/ghub/regrid-tool/07-22-2020_job00028389_16kmto12km’: File exists
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.86s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.86s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.88s )
+
+orog_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.86s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.86s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.89s )
+
+sftgrf_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.85s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.86s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.88s )
+
+GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 35417356 values from 13 variables over 142 timesteps ( 7.45s )
+cdo(2) setmisstoc: Processed 35417356 values from 13 variables over 142 timesteps ( 7.45s )
+cdo remapycon: Processed 35417356 values from 13 variables over 142 timesteps ( 7.48s )
+
+topg_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.83s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.83s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.86s )
+
+yvelmean_GIS_IMAU_IMAUICE1_ctrl.nc
+cdo remapycon: YAC first order conservative weights from curvilinear (106x181) to curvilinear (141x241) grid
+cdo(3) setgrid: Processed 2724412 values from 1 variable over 142 timesteps ( 2.92s )
+cdo(2) setmisstoc: Processed 2724412 values from 1 variable over 142 timesteps ( 2.92s )
+cdo remapycon: Processed 2724412 values from 1 variable over 142 timesteps ( 2.96s )
+

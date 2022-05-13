@@ -1,0 +1,23 @@
+Run 28967 registered 4 jobs. Fri Jul 31 10:53:37 2020
+Run 28967 job 1 released for submission. Fri Jul 31 10:54:08 2020
+Run 28967 job 2 released for submission. Fri Jul 31 10:54:12 2020
+Run 28967 job 3 released for submission. Fri Jul 31 10:54:17 2020
+Run 28967 job 4 released for submission. Fri Jul 31 10:54:22 2020
+(3679393) Job Submitted at ccr-ghub Fri Jul 31 10:54:32 2020
+(3679394) Job Submitted at ccr-ghub Fri Jul 31 10:54:32 2020
+(3679395) Job Submitted at ccr-ghub Fri Jul 31 10:54:32 2020
+(3679396) Job Submitted at ccr-ghub Fri Jul 31 10:54:32 2020
+(3679393) Simulation Running at ccr-ghub Fri Jul 31 10:54:43 2020
+(3679394) Simulation Running at ccr-ghub Fri Jul 31 10:54:43 2020
+(3679395) Simulation Running at ccr-ghub Fri Jul 31 10:54:43 2020
+(3679396) Simulation Pending at ccr-ghub Fri Jul 31 10:54:43 2020
+(3679395) Simulation Done at ccr-ghub Fri Jul 31 10:56:58 2020
+(3679396) Simulation Running at ccr-ghub Fri Jul 31 10:56:58 2020
+(3679393) Simulation Running at ccr-ghub Fri Jul 31 10:57:01 2020
+(3679394) Simulation Running at ccr-ghub Fri Jul 31 10:57:01 2020
+(3679396) Simulation Running at ccr-ghub Fri Jul 31 10:57:01 2020
+(3679393) Simulation Done at ccr-ghub Fri Jul 31 10:57:37 2020
+(3679394) Simulation Done at ccr-ghub Fri Jul 31 10:57:37 2020
+(3679396) Simulation Running at ccr-ghub Fri Jul 31 10:57:44 2020
+(3679396) Simulation Done at ccr-ghub Fri Jul 31 10:59:59 2020
+Simulations complete. Results are stored in directory /home/vhub/elliotsnitzer/tools/netcdfregrid/00028967
